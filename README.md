@@ -11,7 +11,7 @@
   <br>
   <a href="https://github.com/NikkiBausch/GermanLessonDatabaseApplication">German Lesson Database Application</a></li>
 </ul>
-<br>
+
 <ul> These are all the Repos for the LaunchCode LiftOff group project I contributed to in February-May 2021: 
   <li>The final backend for reviews and users (with simple security): <br>
   <a href="https://github.com/NikkiBausch/Coffee-Social-App-Backend-All">Coffee Social App Backend (All)</a></li>
@@ -22,7 +22,7 @@
   <br>
     <a href="https://github.com/NikkiBausch/Frontend-Coffee1">Frontend Coffee 1</a></li>
 </ul>
-<br>
+
 <ul>
   <li>
 Additionally, I completed a simple photo upload form from a tutorial for a different project idea (a Song Playlist generator where one could group songs based on what they want to listen to in different moods), which requires a Maven project, and could be useable potentially in the Coffee Social App version with a java/SQL backend:
