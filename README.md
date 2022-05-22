@@ -1,18 +1,17 @@
-<ul> I'm currently using Java, Thymeleaf, and Python to build exercises for learning German and create a storage application to upload corresponding lesson plans. All of these Repos are in-progress. The project plan for how I will execute this is also still evolving. 
+<ul><strong> I'm currently using Java, Thymeleaf, and Python to build exercises for learning German and to create a storage application to upload corresponding lesson plans. All of these Repos are in-progress. The project plan for how I will execute this is also still evolving. </strong>
   <br>
-  <li>German Vocabulary Quiz Console App:
-  <br>
-    <a href="https://github.com/NikkiBausch/German_C1_C2_Vocab_Quiz">German C1/C2 Vocab Quiz</a></li>
-  <li>Geography and Culture Java Quiz Runner Prototype:
-  <br>
-    <a href="https://github.com/NikkiBausch/FunWithQuizzes">Fun With Quizzes</a></li>
-  <li>Mad Libs Style Text Generator for working with Mittelhochdeutsch Translations (coming soon!)</li>
-  <li>CRUD Repository Application to upload lesson plans ideas:
-  <br>
-  <a href="https://github.com/NikkiBausch/GermanLessonDatabaseApplication">German Lesson Database Application</a></li>
+  <li>
+    <a href="https://github.com/NikkiBausch/German_C1_C2_Vocab_Quiz">German C1/C2 Vocab Quiz (using Python and dictionaries)</a></li>
+  <li>
+    <a href="https://github.com/NikkiBausch/FunWithQuizzes">Java Quiz Prototype for German-speaking Lands Geography and Culture questions </a></li>
+  <li>
+    <a href="https://github.com/NikkiBausch/Mittelhochdeutsch_Text_Madlibs_Style_Study_Aid">Madlibs-Style Study Aid for Mittelhochdeutsch Parts of Speech</a>
+</li>
+  <li>
+  <a href="https://github.com/NikkiBausch/GermanLessonDatabaseApplication">Java CRUD Repository Application to upload German Lesson plan ideas</a></li>
 </ul>
 
-<ul> These are all the Repos for the LaunchCode LiftOff group project I contributed to in February-May 2021: 
+<ul> <strong>These are all the Repos for the LaunchCode LiftOff group project I contributed to in February-May 2021: </strong>
   <li>The final backend for reviews and users (with simple security): <br>
   <a href="https://github.com/NikkiBausch/Coffee-Social-App-Backend-All">Coffee Social App Backend (All)</a></li>
   <li>The Coffee Social App Repo we used for the group project has the backends on different branches: 
@@ -25,13 +24,13 @@
 
 <ul>
   <li>
-Additionally, I completed a simple photo upload form from a tutorial for a different project idea (a Song Playlist generator where one could group songs based on what they want to listen to in different moods), which requires a Maven project, and could be useable potentially in the Coffee Social App version with a java/SQL backend:
+<strong>Additionally, I completed a simple photo upload form from a tutorial for a different project idea (a Song Playlist generator where one could group songs based on what they want to listen to in different moods), which requires a Maven project, and could be useable potentially in the Coffee Social App version with a java/SQL backend: </strong>
 <br>
 <a href="https://github.com/NikkiBausch/Photo-Upload-Form">Photo Upload Form</a> (ideally for filling out the user profile, but also could be used in the review form handler in case someone wants to post photos of their coffee and food, interior of the cafe, the dishware, etc.) 
   </li>
 <br>
   <li>
-  This is a simple HTML/CSS page I created a couple years ago for an assignment in Codergirl Unit 1 to introduce myself to my classmates and teachers:
+  <strong>This is a simple HTML/CSS page I created a couple years ago for an assignment in Codergirl Unit 1 to introduce myself to my classmates and teachers: </strong>
   <br>
   <a href="https://github.com/NikkiBausch/html-me-something">HTML-Me-Something</a>
   </li>
