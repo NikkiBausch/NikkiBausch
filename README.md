@@ -1,5 +1,6 @@
 <ul><strong> I'm currently using Java, Thymeleaf, and Python to build exercises for learning German and to create a storage application to upload corresponding lesson plans. All of these Repos are in-progress. The project plan for how I will execute this is also still evolving. </strong>
   <br>
+  <li>
     <a href="https://github.com/NikkiBausch/FunWithQuizzes">Java Quiz Prototype for German-speaking Lands Geography and Culture questions </a></li>
   <li>
     <a href="https://github.com/NikkiBausch/Mittelhochdeutsch_Text_Madlibs_Style_Study_Aid">Madlibs-Style Study Aid for Mittelhochdeutsch Parts of Speech</a>
